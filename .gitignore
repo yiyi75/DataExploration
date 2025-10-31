@@ -81,3 +81,10 @@ pip-delete-this-directory.txt
 .coverage.*
 .hypothesis/
 .pytest_cache/
+
+*.png
+*.jpg
+*.jpeg
+*.gif
+
+*.pbix
